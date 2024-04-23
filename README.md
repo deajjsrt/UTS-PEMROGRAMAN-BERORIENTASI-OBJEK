@@ -43,7 +43,7 @@
                   -	Sistem harus dapat memasukkan data anggota seperti nama, Alamat, tempat tanggal lahir, dan identifikasi.
                   
               8. Keluar dari Sistem:
-                  -	Sistem harus dapat menyediakan option keluar dari sistem tersebut Ketika pengguna sudah selesai menggunakan sistem Ukrida E-Library.
+                  -	Sistem harus dapat menyediakan option keluar dari sistem tersebut Ketika pengguna sudah selesai menggunakan sistem                        Ukrida E-Library.
 
             o Describe how the system should handle usability, reliability, performance, and supportability aspects.
 
@@ -52,22 +52,22 @@
                   -	Responsif dan Mobile-Friendly: Sistem harus dapat mudah diakses oleh semua pengguna dengan berbagai divice.
               
               2. Keandalan (Reliability):
-                  -	Pengujian Ekstensif: Sistem harus diuji secara menyuluruh untuk memastikan apakah semua fungsi sistem bekerja dengan efektiv.
+                  -	Pengujian Ekstensif: Sistem harus diuji secara menyuluruh untuk memastikan apakah semua fungsi sistem bekerja dengan                      efektiv.
                   -	Pemulihan dari Kegagalan: Sistem harus dapat melakukan pemulihan otomatis untuk memastikan data tidak hilang.
                   -	Keamanan Data: Sistem harus memperkuat keamanan agar data pada sistem Ukrida E-Library tidak mengalami kebocoran data.
               
               3. Kinerja (Performance):
-                  -	Waktu Muat yang Cepat: Sistem harus dapat mengoptimalisasi kinerjanya agar efisien untuk mempercepat waktu muat halaman.
-                  -	Monitoring dan Optimasi: Sistem harus dapat mengimplementasikan alat monitoring untuk memantau kinerja sistem dan mengidentifikasi apa saja yang membutuhkan pembaruan                     atau peningkatan.
+                  -	Waktu Muat yang Cepat: Sistem harus dapat mengoptimalisasi kinerjanya agar efisien untuk mempercepat waktu muat                           halaman.
+                  -	Monitoring dan Optimasi: Sistem harus dapat mengimplementasikan alat monitoring untuk memantau kinerja sistem dan                         mengidentifikasi apa saja yang membutuhkan pembaruan atau peningkatan.
               
               4. Dukungan (Support):
                   -	Dokumentasi: Menyediakan dokumentasi yang lengkap dan mudah dimengerti untuk pengguna dan administrator sistem.
                   -	Dukungan Teknis: Tawarkan dukungan teknis melalui kanal seperti telepon, email, dan live chat.
-                  -	Pelatihan Pengguna: Menyediakan sesi pelatihan untuk pengguna utama dan librarian untuk memastikan apakah mereka cukup memahami dalam menggunakan sistem tersebut.
+                  -	Pelatihan Pengguna: Menyediakan sesi pelatihan untuk pengguna utama dan librarian untuk memastikan apakah mereka                          cukup memahami dalam menggunakan sistem tersebut.
 
         •	IDENTIFY COMPONENTS
 
-          o	Based on the requirement analysis, identify the main classes, objects, and methods that will be required to implement the system.
+          o	Based on the requirement analysis, identify the main classes, objects, and methods that will be required to implement the                 system.
 
               1. Kelas, Objek dan Metode (Classes, Objects, and Methods):
 
