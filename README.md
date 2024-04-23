@@ -67,7 +67,7 @@
 
         •	IDENTIFY COMPONENTS
 
-          o	Based on the requirement analysis, identify the main classes, objects, and methods that will be required to implement the                 system.
+          o	Based on the requirement analysis, identify the main classes, objects, and methods that will be required to implement the system.
 
               1. Kelas, Objek dan Metode (Classes, Objects, and Methods):
 
