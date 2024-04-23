@@ -84,6 +84,7 @@
                        Metode: registerMember(), updateMemberInfo(), deactivateMember()
 
 B. UML Diagrams
+
     • Use Case
 ![Untitled drawing (2)](https://github.com/deajjsrt/UTS-PEMROGRAMAN-BERORIENTASI-OBJEK/assets/151018005/fb60947f-8473-4436-8400-0623f3cb94fe)
 
